@@ -5,4 +5,4 @@ def percentageCalculator(numerator: float, denominator: float) -> float:
 
 numerator = float(input("Enter numerator: "))
 denominator = float(input("Enter denominator: "))
-print("Percentage is", percentageCalculator(numerator, denominator), "%")
+print("Percentage is", percentageCalculator (numerator, denominator), "%")
