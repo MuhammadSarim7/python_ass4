@@ -5,4 +5,4 @@ def secondsConverter(seconds: int):
 
 
 seconds = int(input("Enter number of seconds: "))
-print("Conversion:", secondsConverter(seconds))
+print("Conversion:", secondsConverter (seconds))
