@@ -4,5 +4,5 @@ def areaOfRectangle(length: float, width: float) -> float:
 
 
 length = float(input("Enter length: "))
-width = float(input("Enter width: "))
+width  = float(input("Enter width: "))
 print("Area of rectangle is: ", areaOfRectangle(length, width))
