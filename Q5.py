@@ -13,6 +13,6 @@ def temperatureInFahrenheit(temperatureCelsius: float) -> float:
 temperatureCelsius = float(input("Enter temperature in Celsius: "))
 temperatureFahrenheit = float(input("Enter temperature in Fahrenheit: "))
 print("After Conversion: ")
-print("Temperature in Celsius:", temperatureInCelsius(temperatureFahrenheit), "C")
+print("Temperature in Celsius:",  temperatureInCelsius(temperatureFahrenheit), "C")
 print("Temperature in Fahrenheit:",
       temperatureInFahrenheit(temperatureCelsius), "F")
