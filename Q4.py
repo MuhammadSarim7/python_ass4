@@ -3,5 +3,5 @@ def areaOfCube(length: float) -> float:
     return area
 
 
-length = float(input("Enter length of the cube: "))
+length = float(input ("Enter length of the cube: "))
 print("Area of cube is", areaOfCube(length))
