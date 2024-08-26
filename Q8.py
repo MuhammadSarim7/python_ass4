@@ -1,5 +1,5 @@
 def bmiCalculator(height: float, weight: float) -> float:
-    BMI: float = weight/(height**2)
+    BMI: float = weight/ (height**2)
     return BMI
 
 
