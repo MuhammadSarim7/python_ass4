@@ -1,6 +1,6 @@
 def areaOfCircle(radius: float) -> float:
     PI: float = 3.14159
-    area: float = PI * (radius**2)
+    area: float = PI * (radius ** 2 )
     return area
 
 
